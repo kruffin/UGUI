@@ -8,7 +8,7 @@
 //#define USE_MULTITASKING    
 
 /* Enable color mode */
-//#define USE_COLOR_RGB888   // RGB = 0xFF,0xFF,0xFF
+// #define USE_COLOR_RGB888   // RGB = 0xFF,0xFF,0xFF
 #define USE_COLOR_RGB565   // RGB = 0bRRRRRGGGGGGBBBBB 
 
 /* Enable needed fonts here */
@@ -27,9 +27,9 @@
 //#define  USE_FONT_12X16
 //#define  USE_FONT_12X20
 //#define  USE_FONT_16X26
-//#define  USE_FONT_22X36
-//#define  USE_FONT_24X40
-//#define  USE_FONT_32X53
+#define  USE_FONT_22X36
+// #define  USE_FONT_24X40
+// #define  USE_FONT_32X53
 
 /* Specify platform-dependent integer types here */
 
